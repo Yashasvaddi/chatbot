@@ -1,2 +1,2 @@
-openai_whisper==20240930
+openai_whisper
 streamlit==1.42.0
