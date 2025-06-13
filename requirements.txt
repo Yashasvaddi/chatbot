@@ -1,2 +1,2 @@
-whisper
+openai-whisper
 streamlit==1.42.0
